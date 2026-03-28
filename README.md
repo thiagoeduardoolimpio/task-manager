@@ -29,12 +29,19 @@ A ideia é funcionar como um gerenciador de tarefas no terminal, onde o usuário
 
 ## Exemplo
 	TERMINAL:
-    • Digite uma tarefa (ou 'sair'): estudar python |
-    • Digite uma tarefa (ou 'sair'): ir à academia | 
-    • Digite uma tarefa (ou 'sair'): sair |
+    • Digite uma tarefa (ou 'sair'): estudar python
+    • Digite uma tarefa (ou 'sair'): ir à academia  
+    • Digite uma tarefa (ou 'sair'): sair
 
 1. estudar python
 2. ir à academia
+
+-------------------------------
+
+# Novidades (do commit mais recente)
+1. Apagar tarefas
+2. Substituir tarefas
+3. Pequenas melhorias no codigo 
 
 -------------------------------
 
@@ -47,7 +54,7 @@ A ideia é funcionar como um gerenciador de tarefas no terminal, onde o usuário
 	•	organização básica de código
 
 ## Próximas melhorias (ideias)
-	•	remover tarefas
+	•	remover tarefas (concluido)
 	•	marcar como concluída
 	•	salvar tarefas em arquivo
 
